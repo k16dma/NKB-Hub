@@ -1,6 +1,6 @@
-# NKB Software Hub 🚀
+# NKB Hub 🚀
 
-Welcome to the official repository for **NKB Software Hub**, the home of **ScenarioDesigner (SD)** and upcoming professional automation tools.
+Welcome to the official repository for **NKB Hub**, the home of **ScenarioDesigner (SD)** and upcoming professional automation tools.
 
 👉 **[Visit the Official Website to Download](https://k16dma.github.io/NKB-Hub/)**
 
@@ -19,7 +19,7 @@ Welcome to the official repository for **NKB Software Hub**, the home of **Scena
 ---
 
 ## 🇻🇳 Tiếng Việt: ScenarioDesigner (SD)
-Chào mừng bạn đến với **NKB Software Hub**, nơi phát hành chính thức phần mềm **ScenarioDesigner (SD)** và các công cụ tự động hóa chuyên nghiệp khác.
+Chào mừng bạn đến với **NKB Hub**, nơi phát hành chính thức phần mềm **ScenarioDesigner (SD)** và các công cụ tự động hóa chuyên nghiệp khác.
 
 **ScenarioDesigner** là một nền tảng Tự động hóa quy trình (RPA) trực quan và mạnh mẽ dành cho hệ điều hành Windows, giúp bạn thay thế hoàn toàn các thao tác thủ công lặp đi lặp lại.
 
@@ -32,4 +32,4 @@ Chào mừng bạn đến với **NKB Software Hub**, nơi phát hành chính th
 
 ---
 
-*Built with passion by NKB Software.*
+*Built with passion by NKB Hub.*
