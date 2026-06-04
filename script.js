@@ -24,9 +24,9 @@ window.addEventListener('scroll', () => {
     }
 });
 
-// Download button simulation
+// Download Setup
 function downloadSD() {
-    alert("Downloading ScenarioDesigner Setup... (This is a placeholder for the actual download link)");
+    window.location.href = "https://github.com/k16dma/NKB-Hub/releases/download/SD64-v1.0/SetupSDx64_Trial07.exe";
 }
 
 // Optional: Mouse tracking glow effect on glass cards
