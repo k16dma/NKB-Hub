@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NKB - Professional Software Hub</title>
+    <meta name="description" content="NKB - Professional automation tools and software solutions. Download ScenarioDesigner and more.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="glow-bg">
+        <div class="glow-orb orb-1"></div>
+        <div class="glow-orb orb-2"></div>
+    </div>
+
+    <header class="glass-nav">
+        <div class="container nav-content">
+            <a href="#" class="brand-logo">NKB</a>
+            <nav class="nav-links">
+                <a href="#products">Products</a>
+                <a href="#about">About</a>
+                <a href="#support">Support</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero container">
+            <h1 class="hero-title">Elevate Your <span class="text-gradient">Productivity</span></h1>
+            <p class="hero-subtitle">Discover professional-grade tools designed to automate, optimize, and transform the way you work on Windows.</p>
+            <div class="hero-actions">
+                <a href="#products" class="btn btn-primary">Explore Products</a>
+            </div>
+        </section>
+
+        <section id="products" class="products-section container">
+            <h2 class="section-title">Featured Software</h2>
+            
+            <div class="product-grid">
+                <!-- ScenarioDesigner Card -->
+                <div class="product-card glass-card" id="card-sd">
+                    <div class="card-glow"></div>
+                    <div class="card-content">
+                        <div class="product-header">
+                            <div class="product-icon">
+                                <img src="sd_icon.png" alt="ScenarioDesigner Icon" id="sd-img">
+                            </div>
+                            <div class="product-title-group">
+                                <h3>ScenarioDesigner</h3>
+                                <span class="badge">v1.1</span>
+                            </div>
+                        </div>
+                        <p class="product-desc">
+                            A powerful, intuitive RPA (Robotic Process Automation) platform for Windows. Automate repetitive tasks with absolute precision using our intelligent coordinate scaling engine.
+                        </p>
+                        <div class="product-features">
+                            <span><i class="icon-check"></i> AES-256 Security</span>
+                            <span><i class="icon-check"></i> Cross-DPI Adapt</span>
+                            <span><i class="icon-check"></i> Smart Actions</span>
+                        </div>
+                        <div class="product-actions">
+                            <button class="btn btn-primary btn-full" onclick="downloadSD()">
+                                <span>Download Setup</span>
+                                <span class="size-text">~1.5 MB</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Future Product Placeholder (Empty Slot Styling) -->
+                <div class="product-card glass-card placeholder-card">
+                    <div class="card-content centered">
+                        <div class="placeholder-icon">+</div>
+                        <h3>More Coming Soon</h3>
+                        <p>We are constantly building new tools. Stay tuned.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer glass-nav">
+        <div class="container footer-content">
+            <div class="brand-info">
+                <span class="brand-logo small">NKB</span>
+                <p>&copy; 2026 NKB Software. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
