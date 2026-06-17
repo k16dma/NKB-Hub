@@ -2,7 +2,7 @@
 
 Welcome to the official repository for **NKB Hub**, the home of **ScenarioDesigner (SD)** and upcoming professional automation tools.
 
-👉 **[Visit the Official Website to Download](https://k16dma.github.io/NKB-Hub/)**
+👉 **[Visit the Official Website to Download](https://dl.nkbhub.com/SetupSDx64.exe)**
 
 ---
 
